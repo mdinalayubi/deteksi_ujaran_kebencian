@@ -179,8 +179,8 @@ python deteksi_ujaran_kebencian.py
 
 # OUTPUT
 
-![gambar](foto/Figure1.png)
-![gambar](foto/Figure2.png)
-![gambar](foto/Figure3.png)
-![gambar](foto/Figure2.1.png)
-![gambar](foto/Figure2.2.png)
+![gambar](foto/1.png)
+![gambar](foto/2.png)
+![gambar](foto/3.png)
+![gambar](foto/21.png)
+![gambar](foto/22.png)
